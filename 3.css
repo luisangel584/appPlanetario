@@ -1,0 +1,12 @@
+.contenedor
+	{width: 30px;
+	height: 30px;
+	border: 1px solid black;
+	}
+
+.contenedor
+	{width: 50px;
+	height: 50px;	
+	border: 4px	solid green;
+	background: red; 
+}
